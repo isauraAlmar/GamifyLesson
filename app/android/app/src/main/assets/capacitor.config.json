@@ -1,0 +1,8 @@
+{
+  "appId": "gamify.lesson.protorype",
+  "appName": "Teacher",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

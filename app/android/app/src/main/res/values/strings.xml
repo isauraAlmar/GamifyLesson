@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Teacher</string>
+    <string name="title_activity_main">Teacher</string>
+    <string name="package_name">gamify.lesson.protorype</string>
+    <string name="custom_url_scheme">gamify.lesson.protorype</string>
+</resources>
